@@ -1,0 +1,26 @@
+/*Raphael Rodrigues*/
+h1 {
+    font-size: 38px;
+    background: rgba(128, 0, 128, 0.81);
+    display: inline-block;
+    padding: 42px 20px;
+    width: 10em;
+    text-align: justify;
+    color:white;
+    text-shadow: 10px 10px 10px black;
+    box-shadow: 5px 5px 0px white;
+    font-family: 'Press Start 2P', cursive;
+    text-shadow: 5px 5px 0px rgba(0, 0, 0, 0.816);
+    padding-left: 40px;
+}
+
+/*FrontEnd Developer*/
+h2 {
+    color: rgb(3, 0, 3);
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.645);
+    padding: 10px;
+    margin-bottom: 30px;
+    margin-top: 0;
+    margin-left: 10px;
+    font-family: 'Press Start 2P', cursive;
+}

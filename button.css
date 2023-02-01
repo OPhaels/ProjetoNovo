@@ -1,0 +1,36 @@
+/*navbar*/
+a {
+    display: inline-flex;
+    align-items: center;
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px strong;
+    font-weight: 500;
+    margin-right: 30px;
+}
+ 
+a:hover{
+    transform: scale(1.10);
+}
+
+a::before {
+    content: "";
+    background:white;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
+
+/*botões abaixo*/
+.button {
+    display: inline-block;
+    background: purple;
+    box-shadow: 5px 5px 0px rgb(0, 0, 0);
+    padding: 18px 20px;
+    margin-right: 4px;
+    margin-left:15px;
+    font-size: 20px ;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
